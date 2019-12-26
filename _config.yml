@@ -1,6 +1,6 @@
 # Site settings
 title: Alan Schveitzer QA
-description: Um pqueno site com meus artigos e conhecimentos
+description: Portfólio simples com alguns dos meus artigos
 #baseurl: /index.html # the subpath of your site, e.g. /blog
 url: https://schveitzer.github.io
 
@@ -14,8 +14,7 @@ user_description: >
 user_title: Analista de Qualidade de Software
 email: alan.schveitzer@gmail.com
 linkedin_username: alansc
-github_username: lorem_ipsum
-gplus_username: lorem_ipsum
+github_username: schveitzer
 
 # Google-analytics
 google-analytics:
