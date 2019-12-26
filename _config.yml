@@ -7,10 +7,10 @@ url: https://schveitzer.github.io
 # User settings
 username: Alan Schveitzer
 user_description: >
- Analista de qualidade de software com mais de 4 anos de experiência.
- Focado em contribuir com a melhoria do desenvolvimento e entrega de software.
- Possui conhecimento em técnicas de BDD e metodologias ágeis.
- Amplo conhecimento em gestão e criação de testes manuais, processos de testes e qualidade, criação e manutenção de testes automatizados para aplicações web GUI, mobile e apis.
+  Analista de qualidade de software com mais de 4 anos de experiência.
+  Focado em contribuir com a melhoria do desenvolvimento e entrega de software.
+  Possui conhecimento em técnicas de BDD e metodologias ágeis.
+  Amplo conhecimento em gestão e criação de testes manuais, processos de testes e qualidade, criação e manutenção de testes automatizados para aplicações web GUI, mobile e apis.
 user_title: Analista de Qualidade de Software
 email: alan.schveitzer@gmail.com
 linkedin_username: alansc
@@ -18,6 +18,6 @@ github_username: schveitzer
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: UA-70145335-2
 
 exclude: ["package.json", "src", "node_modules"]
